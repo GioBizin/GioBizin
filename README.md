@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Meow <br><br>💬 Oie! Pode me chamar de Gi :) <br>Estou atualmente cursando Ciência da Computação. Ainda estou <br>começando, mas sempre busco me aprofundar.<br><br>⚡ Fact: A entropia do universo está sempre aumentando, <br>então podemos falar que nosso universo tende à desordem.
+🌱 Meow <br><br>💬 Oie! Estou atualmente cursando Ciência da Computação. Ainda estou <br>começando, mas sempre busco me aprofundar.<br><br>⚡ Fact: A entropia do universo está sempre aumentando, <br>então podemos falar que nosso universo tende à desordem.
 
 
 ## 🌐 Socials:
